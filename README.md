@@ -1,6 +1,6 @@
-# Compsys303 Assignment 1
-This assignment involves designing a traffic light controller on a Altera(DE2-115) FPGA 
-with four modes that successively increase in complexity. LEDs(0 - 5) model the traffic lights. 
+# Introduction
+This project involves designing a pacemaker controller on a softcore NIOSII processor implemented on a Altera(DE2-115) FPGA. 
+It has four modes of operation that successively increase in complexity. LEDs(0 - 5) model the traffic lights. 
 
 ## Run instructions
 * Connect FPGA to PC using blaster and UART via RS232 cable
