@@ -1,5 +1,5 @@
 # Introduction
-This project involves designing a pacemaker controller on a softcore NIOSII processor implemented on a Altera(DE2-115) FPGA. 
+This project involves designing a pacemaker controller on a softcore NiosII processor implemented on a Altera(DE2-115) FPGA. 
 It has four modes of operation that successively increase in complexity. LEDs(0 - 5) model the traffic lights. 
 
 ## Run instructions
